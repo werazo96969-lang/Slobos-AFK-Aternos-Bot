@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PreySor.aternos.me",
+    "ip": "PreySorSMP.aternos.me",
     "port": 43702,
     "version": "1.21.11",
     "try-creative": false
@@ -23,7 +23,7 @@
       "password": "chalol78"
     },
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": true
     },
     "chat-messages": {
