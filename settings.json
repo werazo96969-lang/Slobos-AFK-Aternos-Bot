@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PreySorSMP.aternos.me",
+    "ip": "dormouse.aternos.me",
     "port": 43702,
     "version": "1.21.11",
     "try-creative": false
